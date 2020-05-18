@@ -25,10 +25,7 @@ namespace Sport
             Application.Exit();
         }    
         
-        private void rien()
-        {
-            int i = 0;
-        }
+       
 
 
         private void FrmSport_Load(object sender, EventArgs e)
